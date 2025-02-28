@@ -2,7 +2,7 @@
 Airgead Banking Project 2 
 
 # What did you do particularly well?
-For this project, I think I did particularly well with providing clear prompts for the user to enter the initial investment, monthly deposit, annual interest rate. As well as, the nested loops for calculating interest. Creating two loops was difficult but it was the right move to allow for accurate monthly compounding. 
+For this project, I think I did particularly well with providing clear prompts for the user to enter the initial investment, monthly deposit,  and annual interest rate. As well as creating clearly defined nested loops for calculating interest. Creating two loops was difficult but it was the right move to allow for accurate monthly compounding. 
 
 # Where could you enhance your code? How would these improvements make your code more efficient, secure, and so on?
 I would enhance my code by making it more visually pleasing. While the code was functional when I was reviewing it for this repository, I did find some spelling errors in my in line comments. I could have also used more classes to help organize the code, rather than writing it all in the main.cpp. That would have better prepared me for Project 3 where we needed to create multiple classes for one program. Focusing more on the UX/UI would have helped me make this more appealing. 
